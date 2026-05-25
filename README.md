@@ -4,7 +4,7 @@
 This repository documents my hands-on SOC and cybersecurity lab environment focused on SIEM operations, threat detection, incident response workflows, and security automation.
 
 ## Technologies Used
-- VMware ESXi
+- Proxmox 
 - Ubuntu 24.04
 - Splunk
 - Python
